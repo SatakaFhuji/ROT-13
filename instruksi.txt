@@ -1,0 +1,13 @@
+goal :
+
+*** mengenkripsi password menggunakan ROT-13 method***
+1. -> decryption -> encryption
+2. -> encryption -> decryption
+
+*** steps ***
+1. import string library
+2. import getpass library
+3. membuat fungsi (rot13)
+4. menentukan tebel terjemahan: kamus yang memetakan setiap huruf ke pasangan ROT-13nya
+5. terjemahkan teks menggunakan tabel terjemah
+6. next -> ?
